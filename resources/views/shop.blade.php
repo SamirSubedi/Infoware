@@ -14,7 +14,7 @@
       </div>
     </section>
     
-    <br>      <h4 style="text-align:center">Products In Our Store</h4> <div class="container" style="margin-top: 80px">
+    <br>      <h4 style="text-align:center">Latest Products In Our Store</h4> <div class="container" style="margin-top: 80px">
         <div class="row justify-content-center">
             <div class="col-lg-12">
              

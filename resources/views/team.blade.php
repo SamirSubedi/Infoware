@@ -107,8 +107,8 @@
 								<div class="img align-self-stretch" style="background-image: url(images/staff-5.jpg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Lloyd Wilson</h3>
-								<span class="position mb-2">Co-Founder</span>
+								<h3>Samir Subedi</h3>
+								<span class="position mb-2">Support Engineer</span>
 								<div class="faded">
 								
 									<ul class="ftco-social text-center">
