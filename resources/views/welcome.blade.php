@@ -17,7 +17,7 @@
               <span class="subheading">Infoware Nepal Pvt. Ltd.</span>
               <h1 class="mb-3"><span>Finman</span> <span>Accounting</span> <span>Software</span></h1>
               <p>One of the Most Trusted Fintech Company of Nepal.</p>
-              <p><a href="#" class="btn btn-secondary px-4 py-3">Get in touch</a></p>
+              <p><a href="#" class="btn btn-secondary px-4 py-3">Get touch</a></p>
             </div>
           </div>
         </div>
