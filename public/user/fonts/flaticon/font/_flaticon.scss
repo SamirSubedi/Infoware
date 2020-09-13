@@ -1,0 +1,66 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 09/09/2020 06:20
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-audit:before { content: "\f100"; }
+.flaticon-accounting:before { content: "\f101"; }
+.flaticon-tax:before { content: "\f102"; }
+.flaticon-quality-assurance:before { content: "\f103"; }
+.flaticon-research:before { content: "\f104"; }
+.flaticon-computer:before { content: "\f105"; }
+.flaticon-app:before { content: "\f106"; }
+.flaticon-www:before { content: "\f107"; }
+.flaticon-scrum:before { content: "\f108"; }
+.flaticon-process:before { content: "\f109"; }
+.flaticon-dashboard:before { content: "\f10a"; }
+.flaticon-atm:before { content: "\f10b"; }
+.flaticon-skill:before { content: "\f10c"; }
+    
+    $font-Flaticon-audit: "\f100";
+    $font-Flaticon-accounting: "\f101";
+    $font-Flaticon-tax: "\f102";
+    $font-Flaticon-quality-assurance: "\f103";
+    $font-Flaticon-research: "\f104";
+    $font-Flaticon-computer: "\f105";
+    $font-Flaticon-app: "\f106";
+    $font-Flaticon-www: "\f107";
+    $font-Flaticon-scrum: "\f108";
+    $font-Flaticon-process: "\f109";
+    $font-Flaticon-dashboard: "\f10a";
+    $font-Flaticon-atm: "\f10b";
+    $font-Flaticon-skill: "\f10c";
